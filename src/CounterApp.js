@@ -39,6 +39,7 @@ const CounterApp = ({ value = 0 }) => {
                     onClick={handleAdd}>+1
                 </button>
             </div>
+            
         </>
     );
 }
